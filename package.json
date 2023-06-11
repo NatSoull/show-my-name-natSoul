@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-natsoul",
+  "version": "1.0.0",
+  "description": "swd student",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatSoull/show-my-name-natSoul.git"
+  },
+  "keywords": [
+    "show-my-name-natsoul"
+  ],
+  "author": "Min Thut Khant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatSoull/show-my-name-natSoul/issues"
+  },
+  "homepage": "https://github.com/NatSoull/show-my-name-natSoul#readme"
+}
